@@ -1,14 +1,6 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+<%@ page language="java" contentType="text/html; charset=UTF-8" isELIgnored="false"
 		 pageEncoding="UTF-8" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%@ page import="com.baizhi.cmfz.util.CookieUtil" %>
-<%
-	Cookie[] cookies = request.getCookies();
-	if(cookies != null && cookies.length > 0) {
-		String mgrName = CookieUtil.getCookieValueByName(cookies, "mgrName", "utf-8");
-		request.setAttribute("mgrName", mgrName);
-	}
-%>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<title>持名法州后台管理中心</title>
@@ -35,7 +27,7 @@
 <body>
 
 <div class="login">
-	<form id="loginForm" action="mgr/mgrLogin" method="post" >
+	<form id="loginForm" action="${pageContext.request.contextPath}/admin/login" method="post" >
 
 		<table>
 			<tbody>
@@ -47,7 +39,7 @@
 					用户名:
 				</th>
 				<td>
-					<input type="text"  name="mgrName" class="text" value="${mgrName}" maxlength="20"/>
+					<input type="text"  name="mgrName" class="text" value="${admin.mgrName}" maxlength="20"/>
 				</td>
 			</tr>
 			<tr>

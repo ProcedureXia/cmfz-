@@ -13,6 +13,9 @@
     <!--静态资源放行-->
     <mvc:default-servlet-handler />
 
+    <!-- 扫描poi提供的类 -->
+    <context:component-scan base-package="org.jeecgframework.cmfz.excel.view"/>
+    <bean class="org.springframework.web.servlet.view.BeanNameViewResolver" id="beanNameViewResolver"/>
     <!--SpringMVC注解驱动-->
     <mvc:annotation-driven>
         <!--fastjson的json支持-->

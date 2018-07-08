@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.baizhi.cmfz.dao.MasterDao">
+
+    <select id="selectMasterByPage" resultType="com.baizhi.cmfz.entity.Master">
+        select * from t_master limit #{start},#{end}
+    </select>
+
+    <select id="count" resultType="int">
+
+        select count(*) from t_master
+        <where>
+            <if test="key !='masterName' and key!=''">
+                ${key} like concat('%',#{value},'%')
+            </if>
+            <if test="key == 'masterName'">
+                ${key} = #{value}
+            </if>
+        </where>
+    </select>
+
+    <insert id="insertMaster">
+        insert into t_master (masterId,masterName,masterPhone,masterSummer,masterPhoto,masterGender)
+
+        values (#{masterId},#{masterName},#{masterPhone},#{masterSummer},#{masterPhoto},#{masterGender})
+    </insert>
+
+    <insert id="insertMoreMaster">
+        insert into t_master (masterId,masterName,masterPhone,masterSummer,masterPhoto,masterGender)
+
+        <foreach collection="item" item="item" separator=",">
+            values (#{masterId},#{masterName},#{masterPhone},#{masterSummer},#{masterPhoto},#{masterGender})
+        </foreach>
+</insert>
+
+    <update id="updateMaster">
+
+        update t_master set masterName=#{masterName},masterPhone=#{masterPhone},masterSummer=#{masterSummer},
+        masterGender=#{masterGender}
+        where masterId = #{masterId}
+    </update>
+
+
+    <select id="selectMasterByCondition" resultType="com.baizhi.cmfz.entity.Master">
+        select * from t_master
+        <where>
+            <if test="key !='masterName'">
+                ${key} like concat('%',#{value},'%')
+            </if>
+            <if test="key == 'masterName'">
+                ${key} = #{value}
+            </if>
+        </where>
+        limit #{start},#{end}
+    </select>
+</mapper>

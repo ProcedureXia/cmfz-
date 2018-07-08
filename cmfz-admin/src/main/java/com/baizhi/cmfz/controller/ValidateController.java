@@ -1,7 +1,6 @@
 package com.baizhi.cmfz.controller;
 
-import com.baizhi.cmfz.util.ValidateCodeUtils;
-import org.springframework.cache.annotation.Cacheable;
+import com.baizhi.cmfz.util.CreateValidateCode;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -16,7 +15,7 @@ public class ValidateController {
     @RequestMapping("/getVcode")
     public void getValidateCode(HttpSession session, HttpServletResponse response) {
         try {
-            ValidateCodeUtils createValidateCode = new ValidateCodeUtils(120, 40);
+            CreateValidateCode createValidateCode = new CreateValidateCode(120, 40);
             String vCode = createValidateCode.getCode();
             System.out.println(vCode);
             session.setAttribute("vCode", vCode);
