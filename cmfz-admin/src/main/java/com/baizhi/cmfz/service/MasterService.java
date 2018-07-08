@@ -14,7 +14,7 @@ public interface MasterService {
 
     public int addMaster(Master master);
 
-    public List<Master> addMoreMaster(Master master);
+    public Integer addMoreMaster(List<Master> masters);
 
     public int modifyMaster(Master master);
 

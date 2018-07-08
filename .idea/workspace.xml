@@ -2,819 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659d7a38-ff3f-457f-9d39-5e181a37103b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/img/shouye.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406011043129_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406011050744_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/2013040601125064_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406014211289_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406014311476_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406014314162_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406015709810_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406125519344_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406125647919_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130406125821654_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130408025545236_easyicon_net_30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/20130410120031302_easyicon_net_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_cascade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_double.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_form.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_form_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_form_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_form_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_form_magnify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_get.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_cascade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_double.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_get.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_go.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_split.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_start.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_osx_terminal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_put.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_side_boxes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_side_contract.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_side_expand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_side_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_side_tree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_split.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_start.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_tile_horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_tile_vertical.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_view_columns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_view_detail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_view_gallery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_view_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_view_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_view_tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/application_xp_terminal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_in_longer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_nw_ne_sw_se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_out_longer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_refresh_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_rotate_anticlockwise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_rotate_clockwise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_switch_bluegreen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_turn_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/arrow_turn_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/asterisk_orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/asterisk_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_bronze_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_bronze_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_bronze_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_gold_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_gold_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_gold_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_silver_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_silver_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/award_star_silver_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bell_silver_start.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bell_silver_stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/book_addresses_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/book_addresses_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/book_addresses_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/book_addresses_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/book_addresses_key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bookmark_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/border_inner_horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/border_inner_vertical.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/building_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_arrow_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_arrow_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_database_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_page_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_stop_alt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_toggle_minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_toggle_plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/bullet_wrench_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calculator_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calculator_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calculator_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calculator_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calendar_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calendar_select_day.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calendar_select_none.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calendar_select_week.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calendar_view_day.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calendar_view_month.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/calendar_view_week.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_bar_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_bar_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_curve_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_curve_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_curve_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_curve_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_curve_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_line_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_line_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_line_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_line_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_org_inverted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_organisation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_organisation_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_organisation_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_pie_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_pie_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/chart_pie_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/comments_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/computer_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/computer_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/computer_magnify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/computer_wrench.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/contrast_decrease.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/contrast_increase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_add_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_blank_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_eject_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_end_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_equalizer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_equalizer_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_fastforward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_fastforward_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_pause_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_play_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_power_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_record_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_remove_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_repeat_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_rewind_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_start_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/control_stop_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/controller_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/controller_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/database_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/database_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/database_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/database_refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/database_wrench.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/database_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/database_yellow_start.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/database_yellow_stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/disk_black_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/disk_black_magnify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/drive_network_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/drive_network_stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/email_open_image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/emoticon_evilgrin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/emoticon_surprised.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/emoticon_tongue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/emoticon_unhappy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/flag_europeanunion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/folder_bookmark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/folder_database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/folder_lightbulb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/folder_page_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/hammer_screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/hourglass_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/ipod_cast_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/ipod_nano_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/joystick_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/joystick_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/keyboard_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/keyboard_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/keyboard_magnify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/layout_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/lightbulb_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/lightning_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/magifier_zoom_out.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/magnifier_zoom_in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/medal_bronze_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/medal_bronze_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/medal_gold_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/medal_silver_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/medal_silver_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/monitor_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/newspaper_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_break_insert.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_header_footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_landscape_shot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_paintbrush.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_portrait_shot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_acrobat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_actionscript.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_break.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_code_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_coldfusion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_compressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_cplusplus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_csharp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_database_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_excel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_find.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_flash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_font.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_freehand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_gear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_magnify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_medal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_office.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_paint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_paint_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_paintbrush.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_paste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_paste_table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_picture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_powerpoint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_ruby.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_side_by_side.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_stack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_swoosh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_text_width.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_vector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_visualstudio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_width.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_word.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_world.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/page_white_wrench.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/paint_can_brush.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/paintbrush_color.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/picture_clipboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/pictures_thumbs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/plugin_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/printer_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/resultset_first.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/resultset_previous.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/script_code_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/script_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/section_collapsed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/section_expanded.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/server_compressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/server_database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/server_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/server_uncompressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_align_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_align_center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_align_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_align_middle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_align_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_align_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_flip_horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_flip_vertical.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_move_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_move_backwards.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_move_forwards.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_move_front.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_rotate_anticlockwise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_rotate_clockwise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_shadow_toggle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_square_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_square_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_square_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_square_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_square_go.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_square_key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_square_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shape_square_select.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/shapes_many_select.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/smartphone_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/smartphone_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/smartphone_disk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/smartphone_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/smartphone_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/smartphone_wrench.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/sort_descending.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/sport_basketball.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/sport_golf_practice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/sport_shuttlecock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/star_bronze_half_grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/star_gold_half_grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/star_gold_half_silver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/status_be_right_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/status_invisible.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/status_offline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/table_column_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/table_column_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/table_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/table_relationship.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/table_row_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/table_row_insert.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/tag_blue_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/telephone_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/telephone_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/telephone_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/telephone_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/television_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/television_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/television_off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/television_out.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/television_star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_align_center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_align_justify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_align_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_align_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_direction.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_double_underline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_font_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_heading_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_heading_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_heading_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_heading_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_heading_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_heading_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_horizontalrule.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_indent_remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_left_to_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_letter_omega.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_letterspacing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_linespacing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_list_bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_list_numbers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_lowercase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_lowercase_a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_padding_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_padding_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_padding_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_padding_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_right_to_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_rotate_180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_rotate_270.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_rotate_90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_signature.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_smallcaps.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_strikethrough.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_subscript.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_superscript.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_underline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/text_uppercase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/textfield_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/textfield_rename.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/timeline_marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/transmit_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/transmit_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/tree_checkbox_0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/tree_checkbox_1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/user_comment_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/user_gray_cool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/user_suit_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/weather_clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/weather_cloudy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/weather_cloudy_rain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/weather_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconsExtension/webcam_connect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/accordion_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/calendar_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/combo_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/datagrid_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/datebox_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/layout_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/linkbutton_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/menu_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/messager_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/pagination_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/panel_tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/searchbox_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/slider_handle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/spinner_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/tabs_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/tree_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/images/validatebox_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/accordion_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/calendar_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/combo_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/datagrid_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/datebox_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/layout_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/linkbutton_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/menu_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/messager_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/pagination_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/panel_tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/searchbox_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/slider_handle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/spinner_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/tabs_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/tree_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/images/validatebox_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/accordion_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/calendar_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/combo_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/datagrid_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/datebox_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/layout_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/linkbutton_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/menu_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/messager_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/pagination_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/panel_tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/searchbox_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/slider_handle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/spinner_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/tabs_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/tree_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/images/validatebox_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/accordion_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/calendar_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/combo_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/datagrid_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/datebox_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/layout_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/linkbutton_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/menu_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/messager_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/pagination_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/panel_tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/searchbox_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/slider_handle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/spinner_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/tabs_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/tree_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/images/validatebox_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/cancel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/clear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/cut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/edit_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/edit_remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/filesave.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/filter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/large_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/large_clipart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/large_picture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/large_shapes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/large_smartart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/man.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/mini_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/mini_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/mini_refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/no.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/ok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/redo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/reload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/sum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/tip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icons/undo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/accordion_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/calendar_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/combo_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/datagrid_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/datebox_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/layout_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/linkbutton_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/menu_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/messager_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/pagination_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/panel_tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/searchbox_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/slider_handle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/spinner_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/tabs_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/tree_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/images/validatebox_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/accordion_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/calendar_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/combo_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/datagrid_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/datebox_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/layout_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/linkbutton_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/menu_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/messager_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/pagination_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/panel_tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/searchbox_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/slider_handle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/spinner_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/tabs_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/tree_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/images/validatebox_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/artifacts/cmfz_admin_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/artifacts/cmfz_admin_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__cn_afterturn_easypoi_annotation_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__cn_afterturn_easypoi_base_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__cn_afterturn_easypoi_web_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/cmfz-admin.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/AdminController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/MasterController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/MenuController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/PictureController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/AdminDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MasterDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MenuDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/PictureDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Master.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Picture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/AdminService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/MasterService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/MenuService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/PictureService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/AdminServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MasterServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MenuServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/PictureServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/AdminMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MasterMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MenuMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/PictureMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/addMaster.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/js/datagrid-detailview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/js/easyui-lang-zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/js/jquery.easyui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/main.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/master.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/slideshow.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/IconExtension.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/datalist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/filebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/numberbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/switchbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/textbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/black/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/datalist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/filebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/numberbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/switchbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/textbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/bootstrap/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/color.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/datalist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/filebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/numberbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/switchbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/textbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/default/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/datalist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/filebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/numberbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/switchbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/textbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/gray/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/icon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/datalist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/filebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/numberbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/switchbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/textbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/material/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/datalist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/filebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/numberbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/switchbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/textbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/metro/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/themes/mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/update.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/updateMaster.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/uploadMasters.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/test/java/MasterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/test/java/MenuServiceImplTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-rest/cmfz-rest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-rest/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-rest/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz-rest/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/cmfz.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cmfz/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/ManagerController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/UserController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/ManagerDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/UserDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/ManagerService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/UserService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/ManagerServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/UserServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/util/EncryptionUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/ManagerMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/UserMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/regist.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/ValidateController.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/ValidateController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cmfz/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/MasterController.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/MasterController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MasterDao.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MasterDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Master.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Master.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/MasterService.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/MasterService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MasterServiceImpl.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MasterServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/applicationContext-mvc.xml" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/applicationContext-mvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/login.jsp" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/login.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/test/java/cmfzTest.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/test/java/cmfzTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Manager.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Admin.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/util/ValidateCodeUtils.java" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/util/CreateValidateCode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MasterMapper.xml" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MasterMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/master.jsp" afterPath="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/master.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/../cmfz/out/" />
     <ignored path="$PROJECT_DIR$/../cmfz/target/" />
@@ -839,14 +35,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="master.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="master.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/master.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-572">
-              <caret line="58" column="84" lean-forward="false" selection-start-line="58" selection-start-column="84" selection-end-line="58" selection-end-column="84" />
+            <state relative-caret-position="-286">
+              <caret line="101" column="49" lean-forward="false" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
               <folding>
-                <marker date="1530977846976" expanded="true" signature="6008:6019" ph="..." />
+                <marker date="1531017879590" expanded="true" signature="5939:5950" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slideshow.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/slideshow.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1143">
+              <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+              <folding>
+                <marker date="1530953958764" expanded="true" signature="2476:2487" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-374">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -854,46 +72,41 @@
       <file leaf-file-name="MasterMapper.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MasterMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="176">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <marker date="1530977458478" expanded="true" signature="304:348" ph="select * fro... t_picture" />
-                <marker date="1530977458478" expanded="true" signature="414:443" ph="select count... t_master" />
-                <marker date="1530977458478" expanded="true" signature="753:951" ph="insert into t_master... " />
-                <marker date="1530977458478" expanded="true" signature="1010:1103" ph="insert into t_master... " />
-                <marker date="1530977458478" expanded="true" signature="1345:1520" ph="update t_mas... " />
-                <marker date="1530977458478" expanded="true" signature="1630:1652" ph="select * fro... t_master" />
-                <marker date="1530977458478" expanded="true" signature="1630:1925" ph="select * fro... t_master" />
+                <marker date="1531017385940" expanded="true" signature="304:348" ph="select * fro... t_picture" />
+                <marker date="1531017385940" expanded="true" signature="414:443" ph="select count... t_master" />
+                <marker date="1531017385940" expanded="true" signature="753:951" ph="insert into t_master... " />
+                <marker date="1531017385940" expanded="true" signature="1010:1103" ph="insert into t_master... " />
+                <marker date="1531017385940" expanded="true" signature="1348:1523" ph="update t_mas... " />
+                <marker date="1531017385940" expanded="true" signature="1633:1655" ph="select * fro... t_master" />
+                <marker date="1531017385940" expanded="true" signature="1633:1928" ph="select * fro... t_master" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MasterServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MasterServiceImpl.java">
+      <file leaf-file-name="main.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/main.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="440">
+              <caret line="83" column="81" lean-forward="true" selection-start-line="83" selection-start-column="81" selection-end-line="83" selection-end-column="81" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1530958921805" expanded="true" signature="1598:1616" ph="..." />
+                <marker date="1530958921805" expanded="true" signature="1598:1792" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Master.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Master.java">
+      <file leaf-file-name="MasterDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MasterDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uploadMasters.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/uploadMasters.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="286">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -902,8 +115,18 @@
       <file leaf-file-name="MasterController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/MasterController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1529">
-              <caret line="93" column="29" lean-forward="false" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+            <state relative-caret-position="1340">
+              <caret line="94" column="16" lean-forward="true" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -932,6 +155,8 @@
       <find>o</find>
       <find>option</find>
       <find>options</find>
+      <find>options;</find>
+      <find>hi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -979,7 +204,6 @@
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/PictureMapper.xml" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/PictureServiceImpl.java" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/test/java/MenuServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Master.java" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/update.jsp" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/AdminServiceImpl.java" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/PictureController.java" />
@@ -989,15 +213,16 @@
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/addMaster.jsp" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/main.jsp" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/AdminController.java" />
-        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/uploadMasters.jsp" />
-        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MasterMapper.xml" />
-        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MasterDao.java" />
-        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/MasterService.java" />
-        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MasterServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/master.jsp" />
-        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/applicationContext-mvc.xml" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/test/java/MasterTest.java" />
+        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/applicationContext-mvc.xml" />
+        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MasterDao.java" />
+        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MasterMapper.xml" />
+        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MasterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/MasterService.java" />
+        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/master.jsp" />
+        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Master.java" />
+        <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/MasterController.java" />
       </list>
     </option>
@@ -1032,10 +257,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="15" />
-    <option name="y" value="18" />
-    <option name="width" value="1342" />
-    <option name="height" value="747" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1241,7 +466,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="entity" />
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1262,19 +487,19 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\cmfz\cmfz-admin\src\main\webapp" />
-      <recent name="D:\cmfz\cmfz-admin\src\main\webapp\WEB-INF" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.baizhi.cmfz.controller" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\cmfz\cmfz-admin\src\main\webapp" />
       <recent name="D:\cmfz\cmfz-admin\src\main\resources\com\baizhi\cmfz\mapper" />
       <recent name="D:\cmfz\cmfz-admin\src\main\webapp\WEB-INF" />
       <recent name="D:\cmfz\cmfz-admin\src\main\java\com\baizhi\cmfz\util" />
       <recent name="D:\cmfz\cmfz-admin\src\main\webapp\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.baizhi.cmfz.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\cmfz\cmfz-admin\src\main\webapp" />
+      <recent name="D:\cmfz\cmfz-admin\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1843,7 +1068,7 @@
       <workItem from="1530856830923" duration="29320000" />
       <workItem from="1530930614212" duration="17080000" />
       <workItem from="1530949097448" duration="23544000" />
-      <workItem from="1531011697107" duration="169000" />
+      <workItem from="1531011697107" duration="12257000" />
     </task>
     <task id="LOCAL-00001" summary="初始化持名法洲项目的基础结构">
       <created>1530679214692</created>
@@ -1880,7 +1105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530761570224</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="上师模块">
+      <created>1531012198150</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531012198150</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1916,7 +1148,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170332000" />
+    <option name="totallyTimeSpent" value="182420000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1928,21 +1160,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="18" width="1342" height="747" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25611746" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11745514" sideWeight="0.5195008" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.48335856" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.49706128" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.680261" sideWeight="0.4804992" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.024590164" sideWeight="0.4804992" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18018721" sideWeight="0.49109414" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860817" sideWeight="0.49109414" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19864048" sideWeight="0.5089058" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30944625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1955,7 +1188,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25611746" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6173285" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1969,7 +1201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化持名法洲项目的基础结构" />
     <MESSAGE value="项目登陆" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目登陆" />
+    <MESSAGE value="上师模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="上师模块" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1982,14 +1215,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/ManagerServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/test/java/cmfzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="604">
@@ -2055,18 +1280,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="47" column="31" lean-forward="false" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MenuMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <marker date="1530779744482" expanded="true" signature="1152:1660" ph="SELECT m1.me... t_menu" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2090,6 +1310,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2097,6 +1318,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="12" column="76" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2104,6 +1326,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2120,6 +1343,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2141,6 +1365,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2155,6 +1382,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <marker date="1530887934860" expanded="true" signature="307:352" ph="select * fro... t_picture" />
+            <marker date="1530887934860" expanded="true" signature="418:448" ph="select count... t_picture" />
+            <marker date="1530887934860" expanded="true" signature="504:691" ph="insert into t_picture... " />
+            <marker date="1530887934860" expanded="true" signature="751:911" ph="update t_pic... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2162,6 +1395,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2182,32 +1418,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/util/CookieUtil.java" />
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1329">
-          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-          <folding>
-            <marker date="1530958921805" expanded="true" signature="1598:1616" ph="..." />
-            <marker date="1530958921805" expanded="true" signature="1598:1792" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/AdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/update.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -2216,73 +1426,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/slideshow.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-          <folding>
-            <marker date="1530953958764" expanded="true" signature="2476:2487" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/AdminDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MasterMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <marker date="1530977458478" expanded="true" signature="304:348" ph="select * fro... t_picture" />
-            <marker date="1530977458478" expanded="true" signature="414:443" ph="select count... t_master" />
-            <marker date="1530977458478" expanded="true" signature="753:951" ph="insert into t_master... " />
-            <marker date="1530977458478" expanded="true" signature="1010:1103" ph="insert into t_master... " />
-            <marker date="1530977458478" expanded="true" signature="1345:1520" ph="update t_mas... " />
-            <marker date="1530977458478" expanded="true" signature="1630:1652" ph="select * fro... t_master" />
-            <marker date="1530977458478" expanded="true" signature="1630:1925" ph="select * fro... t_master" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MasterDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/MasterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MasterServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/addMaster.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" column="48" lean-forward="true" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/uploadMasters.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -2291,40 +1438,160 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="23" column="7" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="23" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/applicationContext-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="-253">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/addMaster.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="42" column="48" lean-forward="true" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/js/jquery.easyui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="611" column="50" lean-forward="true" selection-start-line="611" selection-start-column="50" selection-end-line="611" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/uploadMasters.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/MasterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/service/impl/MasterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/entity/Master.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="308">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/MasterController.java">
+    <entry file="file://$PROJECT_DIR$/../cmfz/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1529">
-          <caret line="93" column="29" lean-forward="false" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+        <state relative-caret-position="132">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-259">
+          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/master.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="58" column="84" lean-forward="false" selection-start-line="58" selection-start-column="84" selection-end-line="58" selection-end-column="84" />
+        <state relative-caret-position="-286">
+          <caret line="101" column="49" lean-forward="false" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
           <folding>
-            <marker date="1530977846976" expanded="true" signature="6008:6019" ph="..." />
+            <marker date="1531017879590" expanded="true" signature="5939:5950" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/slideshow.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1143">
+          <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <marker date="1530953958764" expanded="true" signature="2476:2487" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/dao/MasterDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/resources/com/baizhi/cmfz/mapper/MasterMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <marker date="1531017385940" expanded="true" signature="304:348" ph="select * fro... t_picture" />
+            <marker date="1531017385940" expanded="true" signature="414:443" ph="select count... t_master" />
+            <marker date="1531017385940" expanded="true" signature="753:951" ph="insert into t_master... " />
+            <marker date="1531017385940" expanded="true" signature="1010:1103" ph="insert into t_master... " />
+            <marker date="1531017385940" expanded="true" signature="1348:1523" ph="update t_mas... " />
+            <marker date="1531017385940" expanded="true" signature="1633:1655" ph="select * fro... t_master" />
+            <marker date="1531017385940" expanded="true" signature="1633:1928" ph="select * fro... t_master" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="83" column="81" lean-forward="true" selection-start-line="83" selection-start-column="81" selection-end-line="83" selection-end-column="81" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1530958921805" expanded="true" signature="1598:1616" ph="..." />
+            <marker date="1530958921805" expanded="true" signature="1598:1792" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/MasterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1340">
+          <caret line="94" column="16" lean-forward="true" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cmfz/cmfz-admin/src/main/java/com/baizhi/cmfz/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

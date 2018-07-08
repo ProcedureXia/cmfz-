@@ -30,7 +30,7 @@
     <insert id="insertMoreMaster">
         insert into t_master (masterId,masterName,masterPhone,masterSummer,masterPhoto,masterGender)
 
-        <foreach collection="item" item="item" separator=",">
+        <foreach collection="masters" item="item" separator=",">
             values (#{masterId},#{masterName},#{masterPhone},#{masterSummer},#{masterPhoto},#{masterGender})
         </foreach>
 </insert>

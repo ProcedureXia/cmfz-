@@ -17,7 +17,7 @@ public interface MasterDao {
     public int insertMaster(Master master);
 
     //批量
-    public List<Master> insertMoreMaster(Master master);
+    public Integer insertMoreMaster(List<Master> masters);
 
     public int updateMaster(Master master);
 

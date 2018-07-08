@@ -40,10 +40,10 @@ public class MasterServiceImpl implements MasterService{
         return i;
     }
 
-    @Override
-    public List<Master> addMoreMaster(Master master) {
-        List<Master> masters = masterDao.insertMoreMaster(master);
-        return masters;
+
+    public Integer addMoreMaster(List<Master> masters) {
+        Integer moreMaster = masterDao.insertMoreMaster(masters);
+        return moreMaster;
     }
 
     @Override

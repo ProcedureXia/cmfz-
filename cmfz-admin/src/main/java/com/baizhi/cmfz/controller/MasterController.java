@@ -85,24 +85,21 @@ public class MasterController {
 
     @RequestMapping(value="/importExcel",method= RequestMethod.POST)
     @ResponseBody
-    public void importExcel(MultipartFile file , HttpServletRequest request) throws IOException {
-
+    public String importExcel(List<Master> masters,MultipartFile file , HttpSession session) throws IOException {
         ImportParams params = new ImportParams();
         //设置表格标题
         params.setTitleRows(0);
         //表头函数
         params.setHeadRows(1);
 
-        //是否上传保存到Excel
+        //是否上传保存
         params.setNeedSave(true);
 
-        String path = request.getSession().getServletContext().getRealPath("");
+        /*String path = request.getSession().getServletContext().getRealPath("/");
 
-        System.out.println(path);
-
-        File f = new File(path +"/excel"+file.getOriginalFilename());
+        File f = new File(path +"/"+file.getOriginalFilename());
         if(!f.exists()){
-            File dir = new File(path+"/excel");
+            File dir = new File(path+"/");
             dir.mkdir();
             if(f.createNewFile()){
                 System.out.println("创建文件成功");
@@ -112,7 +109,18 @@ public class MasterController {
         }
         file.transferTo(f);//将上传文件写到服务器指定文件
         List<Master> masters = ExcelImportUtil.importExcel(f,Master.class,params);
-        System.out.println(JSON.toJSONString(masters));
+        System.out.println(JSON.toJSONString(masters));*/
 
+        Integer i = masterService.addMoreMaster(masters);
+            if(i==1) {
+                //添加成功,将图片放进文件中
+                String realPath = session.getServletContext().getRealPath("/");
+//            System.out.println(realPath);
+                String[] strings = realPath.split("ROOT");
+                String uploadPath = strings[0] + "upload";//文件上传的路径
+//            System.out.println(uploadPath+"//"+file.getOriginalFilename());
+                file.transferTo(new File(uploadPath + "/"));
+            }
+            return null;
     }
 }

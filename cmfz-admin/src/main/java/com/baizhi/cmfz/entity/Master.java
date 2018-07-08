@@ -20,10 +20,11 @@ public class Master implements Serializable {
 
     @Excel(name="简介")
     private String masterSummer;
-
+    @Excel(name="头像")
     private String masterPhoto;
 
     //@Excel(name="性别",replace = {"男_1","女_2"})
+    @Excel(name="状态")
     private String masterGender;
 
     public Master() {

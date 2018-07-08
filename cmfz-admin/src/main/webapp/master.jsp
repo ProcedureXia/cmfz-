@@ -20,7 +20,7 @@
                                 url: '${pageContext.request.contextPath}/addMaster',
                                 success: function (e) {
                                     $('#master_dg').datagrid('reload');
-                                    $('#master_dg').dialog('close');
+                                    $('#master_dd').dialog('close');
                                 }
                             });
                         }
@@ -48,9 +48,6 @@
                     height: 200,
                     close: true,
                     href: '${pageContext.request.contextPath}/uploadMasters.jsp',
-                    onLoad: function () {
-                        $("#uploadMaster").form('load', rowData);
-                    },
                     buttons: [{
                         text: '添加',
                         iconCls:"icon-save",
@@ -59,7 +56,9 @@
                                 url: '${pageContext.request.contextPath}/importExcel',
                                 success: function (e) {
                                     $('#master_dg').datagrid('reload');
-                                    $('#master_dg').dialog('close');
+                                    alert("11111111111111");
+
+                                    $('#master_dd').dialog('close');
                                 }
                             });
                         }
@@ -100,7 +99,7 @@
                                 url: '${pageContext.request.contextPath}/modifyMaster',
                                 success: function (e) {
                                     $('#master_dg').datagrid('reload');
-                                    $('#master_dg').dialog('close');
+                                    $('#master_dd').dialog('close');
                                 }
                             });
                         }
@@ -186,7 +185,7 @@
 </script>
 
 
-<table id="master_dg"/>
+
 <div id="master_tb">
     <a id="master_add" class="easyui-linkbutton" data-options="iconCls:'icon-add',text:'添加'"></a>
     <a id="master_update" class="easyui-linkbutton" data-options="iconCls:'icon-edit',text:'修改'"></a>
@@ -201,6 +200,7 @@
     </table>
     <div id="master_dd"></div>
 </div>
+<table id="master_dg"/>
 
 
 
