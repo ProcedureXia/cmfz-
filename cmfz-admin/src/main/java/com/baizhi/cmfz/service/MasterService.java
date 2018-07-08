@@ -14,10 +14,11 @@ public interface MasterService {
 
     public int addMaster(Master master);
 
-    public Integer addMoreMaster(List<Master> masters);
+    public void addMoreMaster(List<Master> masters);
 
     public int modifyMaster(Master master);
 
     public Map<String,Object> queryMasterByCondition(String key,String value,int nowPage,int pageSize);
 
+    public List<Master> queryMasterAll();
 }

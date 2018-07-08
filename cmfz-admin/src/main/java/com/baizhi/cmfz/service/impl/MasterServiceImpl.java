@@ -41,9 +41,9 @@ public class MasterServiceImpl implements MasterService{
     }
 
 
-    public Integer addMoreMaster(List<Master> masters) {
-        Integer moreMaster = masterDao.insertMoreMaster(masters);
-        return moreMaster;
+    public void addMoreMaster(List<Master> masters) {
+        masterDao.insertMoreMaster(masters);
+
     }
 
     @Override
@@ -62,6 +62,11 @@ public class MasterServiceImpl implements MasterService{
         map.put("total",count);
         map.put("rows", list);
         return map;
+    }
+
+    @Override
+    public List<Master> queryMasterAll() {
+        return masterDao.selectMasterAll();
     }
 
 }

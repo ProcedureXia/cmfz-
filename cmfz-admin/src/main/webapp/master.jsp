@@ -47,13 +47,13 @@
                     width: 400,
                     height: 200,
                     close: true,
-                    href: '${pageContext.request.contextPath}/uploadMasters.jsp',
+                    href: '${pageContext.request.contextPath}/addMasters.jsp',
                     buttons: [{
                         text: '添加',
                         iconCls:"icon-save",
                         handler: function () {
                             $("#uploadMaster").form("submit", {
-                                url: '${pageContext.request.contextPath}/importExcel',
+                                url: '${pageContext.request.contextPath}/addBatch',
                                 success: function (e) {
                                     $('#master_dg').datagrid('reload');
                                     alert("11111111111111");
@@ -77,6 +77,9 @@
                 });
             }
         });
+
+
+
 
 
         $("#master_update").linkbutton({
@@ -190,6 +193,7 @@
     <a id="master_add" class="easyui-linkbutton" data-options="iconCls:'icon-add',text:'添加'"></a>
     <a id="master_update" class="easyui-linkbutton" data-options="iconCls:'icon-edit',text:'修改'"></a>
     <a id="master_moreadd" class="easyui-linkbutton" data-options="iconCls:'icon-add',text:'批量插入'"></a>
+    <a id="master_moreout" href="${pageContext.request.contextPath}/export" class="easyui-linkbutton" data-options="iconCls:'icon-add',text:'批量导出'"></a>
     <div id="mm1">
         <div data-options="name:'masterName',iconCls:'icon-save'">上师法名</div>
         <div data-options="name:'masterPhone',iconCls:'icon-save'">上师电话</div>

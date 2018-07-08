@@ -21,6 +21,11 @@
         </where>
     </select>
 
+    <select id="selectMasterAll" resultType="com.baizhi.cmfz.entity.Master">
+        select masterId,masterName,masterPhone,masterSummer,masterPhoto,masterGender
+        from t_master
+    </select>
+
     <insert id="insertMaster">
         insert into t_master (masterId,masterName,masterPhone,masterSummer,masterPhoto,masterGender)
 
@@ -28,10 +33,10 @@
     </insert>
 
     <insert id="insertMoreMaster">
-        insert into t_master (masterId,masterName,masterPhone,masterSummer,masterPhoto,masterGender)
-
-        <foreach collection="masters" item="item" separator=",">
-            values (#{masterId},#{masterName},#{masterPhone},#{masterSummer},#{masterPhoto},#{masterGender})
+        insert into t_master
+        values
+        <foreach collection="masters" item="master" separator=",">
+            (#{master.masterId},#{master.masterName},#{master.masterPhone},#{master.masterSummer},#{master.masterPhoto},#{master.masterGender})
         </foreach>
 </insert>
 

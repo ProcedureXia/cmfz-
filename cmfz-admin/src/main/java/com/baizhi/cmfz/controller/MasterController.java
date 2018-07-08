@@ -1,12 +1,15 @@
 package com.baizhi.cmfz.controller;
 
+import cn.afterturn.easypoi.excel.ExcelExportUtil;
 import cn.afterturn.easypoi.excel.ExcelImportUtil;
+import cn.afterturn.easypoi.excel.entity.ExportParams;
 import cn.afterturn.easypoi.excel.entity.ImportParams;
 import com.alibaba.fastjson.JSON;
 import com.baizhi.cmfz.entity.Master;
 import com.baizhi.cmfz.entity.Picture;
 import com.baizhi.cmfz.service.MasterService;
 import com.baizhi.cmfz.service.PictureService;
+import org.apache.poi.ss.usermodel.Workbook;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -15,7 +18,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 
+import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.File;
 import java.io.IOException;
@@ -83,44 +88,57 @@ public class MasterController {
     }
 
 
-    @RequestMapping(value="/importExcel",method= RequestMethod.POST)
+    @RequestMapping("/addBatch")
     @ResponseBody
-    public String importExcel(List<Master> masters,MultipartFile file , HttpSession session) throws IOException {
+    public String importExcel(MultipartFile file){
+
+        //参数1:输入流
+        //参数2:pojo
+        //参数3:导入参数对象
+        try {
         ImportParams params = new ImportParams();
-        //设置表格标题
-        params.setTitleRows(0);
-        //表头函数
-        params.setHeadRows(1);
-
-        //是否上传保存
-        params.setNeedSave(true);
-
-        /*String path = request.getSession().getServletContext().getRealPath("/");
-
-        File f = new File(path +"/"+file.getOriginalFilename());
-        if(!f.exists()){
-            File dir = new File(path+"/");
-            dir.mkdir();
-            if(f.createNewFile()){
-                System.out.println("创建文件成功");
-            }else{
-                System.out.println("创建文件失败");
+        List<Master> masters = ExcelImportUtil.importExcel(file.getInputStream(),Master.class,params);
+            for (Master master : masters) {
+                System.out.println(master);
             }
+            masterService.addMoreMaster(masters);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
-        file.transferTo(f);//将上传文件写到服务器指定文件
-        List<Master> masters = ExcelImportUtil.importExcel(f,Master.class,params);
-        System.out.println(JSON.toJSONString(masters));*/
-
-        Integer i = masterService.addMoreMaster(masters);
-            if(i==1) {
-                //添加成功,将图片放进文件中
-                String realPath = session.getServletContext().getRealPath("/");
-//            System.out.println(realPath);
-                String[] strings = realPath.split("ROOT");
-                String uploadPath = strings[0] + "upload";//文件上传的路径
-//            System.out.println(uploadPath+"//"+file.getOriginalFilename());
-                file.transferTo(new File(uploadPath + "/"));
-            }
             return null;
+    }
+
+
+    /**
+     * 注意事项：下载文件的时候不能使用异步请求 ajax
+     *
+     * dataType:json
+     *          xml
+     *          不支持stream类型
+     *
+     * @param response
+     * @throws IOException
+     */
+    @RequestMapping("/export")
+    public void exportExcel(HttpServletResponse response) throws IOException {
+        List<Master> masters  = masterService.queryMasterAll();
+        //Excel文件
+        Workbook workbook = ExcelExportUtil.exportExcel(new ExportParams("上师表","上师信息.xls"),Master.class,masters);
+
+        ServletOutputStream out = response.getOutputStream();
+
+        //文件下载
+        //注意:响应头 默认使用的编码格式为iso-8859-1
+
+        //设置文件名
+        String fileName = new String("上师信息");
+        //设置响应类型
+        response.setContentType("application/vnd.ms-excel");
+        //设置响应头
+        response.setHeader("context-disposition","attachment;fileName"+fileName);
+
+        //导出文件方式
+        workbook.write(out);
+        out.close();
     }
 }

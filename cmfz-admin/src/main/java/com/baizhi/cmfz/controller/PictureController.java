@@ -30,7 +30,7 @@ public class PictureController {
     @ResponseBody
     public Map<String,Object>  queryPictureByPage(@RequestParam("page") int nowPage, @RequestParam("rows") int pageSize){
         Map<String, Object> map = pictureService.queryPictureByPage(nowPage, pageSize);
-        System.out.println(map);
+        //System.out.println(map);
         return map;
     }
 

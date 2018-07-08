@@ -16,10 +16,12 @@ public interface MasterDao {
 
     public int insertMaster(Master master);
 
-    //批量
-    public Integer insertMoreMaster(List<Master> masters);
+    //批量插入
+    public Integer insertMoreMaster(@Param("masters") List<Master> masters);
 
     public int updateMaster(Master master);
 
     public List<Master> selectMasterByCondition(@Param("key") String  key,@Param("value") String value,@Param("start") int start, @Param("end") int end);
+
+    public List<Master> selectMasterAll();
 }
