@@ -56,7 +56,7 @@
                                 url: '${pageContext.request.contextPath}/addBatch',
                                 success: function (e) {
                                     $('#master_dg').datagrid('reload');
-                                    alert("11111111111111");
+                                    //alert("11111111111111");
 
                                     $('#master_dd').dialog('close');
                                 }

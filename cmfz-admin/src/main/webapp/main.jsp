@@ -11,6 +11,7 @@
 <script type="text/javascript" src="js/jquery.easyui.min.js"></script>
 <script type="text/javascript" src="js/datagrid-detailview.js"></script>
 <script type="text/javascript" src="js/easyui-lang-zh_CN.js"></script>
+<script type="text/javascript" src="js/wangEditor.min.js"></script>
 <script type="text/javascript">
     function addTab(menuName,menuUrl,menuIcon){
 
