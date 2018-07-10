@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class Data implements Serializable{
 
-    private List<String> sex; //性别
+    private List<String> sex; //用户性别
     private List<Integer> counts; //用户数量
 
     public Data() {

@@ -75,7 +75,7 @@
     	<div style="font-size: 16px;color: #FAF7F7;font-family: 楷体;width: 300px;float:right;padding-top:15px">欢迎您:zs &nbsp;<a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-edit'">修改密码</a>&nbsp;&nbsp;<a href="${pageContext.request.contextPath}/login.jsp" class="easyui-linkbutton" data-options="iconCls:'icon-01'">退出系统</a></div>
     </div>   
     <div data-options="region:'south',split:true" style="height: 40px;background: #5C160C">
-    	<div style="text-align: center;font-size:15px; color: #FAF7F7;font-family: 楷体" >&copy;百知教育 gaozhy@zparkhr.com.cn</div>
+    	<div style="text-align: center;font-size:15px; color: #FAF7F7;font-family: 楷体" >&copy;卢月霞 lyx@qq.com</div>
     </div>
 
 

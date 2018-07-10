@@ -17,37 +17,27 @@
             data:['用户数量']
         },
         xAxis: {
-            data: ["男","女"]
+            data: []
         },
         yAxis: {},
         series: [{
             name: '数量',
             type: 'bar',
-            data: [10,15]
+            data: []
         }]
     };
 
     myChart.setOption(option);
 
-    /*
-     Map<String,Object> map = new HashMap<String,Object>();
-     map.put("intervals",new String[]{"7天","15天"});
-     map.put("counts",new int[]{5,10});'
-     return map;
-
-     [{"intervals":["7天","15天"]},{}]
-
-
-     */
 
    // 异步加载统计信息
 
-    /*$.post("${pageContext.request.contextPath }/activeUser",function(data){
+    $.post("${pageContext.request.contextPath }/activeUser",function(data){
         console.log(data);
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption({
             xAxis: {
-                data: data.intervals
+                data: data.sex,
             },
             series: [{
                 // 根据名字对应到相应的系列
@@ -55,7 +45,7 @@
                 data: data.counts
             }]
         });
-    },"json");*/
+    },"json");
 
 
 </script>

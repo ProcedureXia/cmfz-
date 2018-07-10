@@ -1,16 +1,20 @@
 package com.baizhi.cmfz.controller;
 
+import com.baizhi.cmfz.entity.Data;
 import com.baizhi.cmfz.entity.People;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by yx on 2018/7/9.
  */
+
 @Controller
 public class UserController {
 
@@ -52,5 +56,17 @@ public class UserController {
         people.add(new People("台湾",100));
 
         return people;
+    }
+
+    @RequestMapping("/activeUser")
+    @ResponseBody
+    public Data activeUser() {
+        List<String> sex = new ArrayList<String>();
+        List<Integer> counts = new ArrayList<Integer>();
+        sex.add("男");
+        counts.add(100);
+        sex.add("女");
+        counts.add(150);
+        return new Data(sex,counts);
     }
 }

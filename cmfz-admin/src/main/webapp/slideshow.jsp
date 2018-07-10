@@ -142,10 +142,10 @@
 
     });
 </script>
-
+<table id="dg"></table>
 <div id="tb">
     <a id="pic_add" class="easyui-linkbutton" data-options="iconCls:'icon-add',text:'添加'"></a>
     <a id="pic_help" class="easyui-linkbutton" data-options="iconCls:'icon-help',text:'帮助'"></a>
 </div>
 <div id="dd"></div>
-<table id="dg"></table>
+
