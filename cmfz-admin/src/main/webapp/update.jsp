@@ -27,11 +27,11 @@
             </td>
         </tr>
 
-       <%-- <tr>
+        <tr>
             <td>上传轮播图</td>
             <td><input name="file" class="easyui-filebox"/>
             </td>
-        </tr>--%>
+        </tr>
 
     </table>
 </form>

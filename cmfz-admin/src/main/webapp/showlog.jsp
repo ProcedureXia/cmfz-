@@ -28,10 +28,10 @@
                         return year + "年" + month + "月" + day + "日" + "\t" + hour + ":" + minutes + ":" + seconds;
                     }
                 },
-                {field: 'resource', title: '资源类型', width: '12%'},
+                {field: 'resource', title: '资源类型', width: '10%'},
                 {field: 'action', title: '操作动作', width: '15%'},
-                {field: 'message', title: '操作内容', width: '15%'},
-                {field: 'result', title: '操作结果', width: '15%'},
+                {field: 'message', title: '操作内容', width: '20%'},
+                {field: 'result', title: '操作结果', width: '10%'},
 
             ]],
         });

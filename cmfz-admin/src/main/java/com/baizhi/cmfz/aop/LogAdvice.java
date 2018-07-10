@@ -67,30 +67,29 @@ public class LogAdvice {
               log.setAction("删除");
                }
 
-            //获取当前操作资源类型 resource
-
+                 //获取当前操作资源类型 resource
                 String oldName = methodSignature.getDeclaringTypeName();
-               String resource = oldName.substring(oldName.lastIndexOf(".")+1) ;
-                    log.setMessage(message);
-                    log.setResource(resource);
-                    //log.setUser("aaa");//user.getMgrName()
-                    log.setUser(user.getMgrName());
-                    log.setTime(new Date());
+                String resource = oldName.substring(oldName.lastIndexOf(".")+1) ;
+                log.setMessage(message);
+                log.setResource(resource);
+                //log.setUser("aaa");//user.getMgrName()
+                log.setUser(user.getMgrName());
+                log.setTime(new Date());
 
-                     //获取状态
-                    Object obj = null;
-                        try{
-                            obj = pjp.proceed();
-                       log.setResult("success");
-                       } catch (Exception e){
-                       log.setResult("fail");
-                        e.printStackTrace();
-                        } catch (Throwable throwable) {
-                        throwable.printStackTrace();
-                    }
-                    //System.out.println(log);
-                   logDao.insertLog(log);
-                   return obj;
+                 //获取状态
+                Object obj = null;
+                    try{
+                        obj = pjp.proceed();
+                   log.setResult("success");
+                   } catch (Exception e){
+                   log.setResult("fail");
+                    e.printStackTrace();
+                    } catch (Throwable throwable) {
+                    throwable.printStackTrace();
+                }
+                //System.out.println(log);
+               logDao.insertLog(log);
+               return obj;
 
 
         }

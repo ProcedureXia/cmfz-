@@ -11,7 +11,7 @@
     var editor = new E("#div1");
 
     // 配置服务器端地址
-     editor.customConfig.uploadImgServer = '${pageContext.request.contextPath}/addArticle'  // 上传图片到服务器
+     editor.customConfig.uploadImgServer = '${pageContext.request.contextPath}/addPic'  // 上传图片到服务器
     // 进行下文提到的其他配置
     editor.customConfig.uploadFileName = 'files' //上传文件的名称
 
@@ -20,25 +20,14 @@
 
     function test(){
         $.post("${pageContext.request.contextPath}/addArticle",{
-            articleName:$("name".val()),
-            masterId:$("#cc").combobox("valueField"),
+            articleName:$("#name1").val(),
+            masterId:$("#cc").combobox("getValue"),
             articleContent:editor.txt.html(),
+            articleStatus:$("#s").val(),
         },function(data){
-           $("#reset_art").form("reset");
-        },"json");
-
-      /* $.ajax({
-           type:"POST",
-           url:"${pageContext.request.contextPath}/addArticle",
-
-                articleName:$("name".val()),
-                masterId:$("#cc").combobox("getValue"),
-                articleContent:editor.txt.html(),
-            success:function(data){
+           alert(data);
             $("#reset_art").form("reset");
-        },"json"
-    });*/
-
+        },"json");
     }
 
 
@@ -59,7 +48,7 @@
 
 
         $(function(){
-            $("#status").switchbutton({
+            $("#s").switchbutton({
                 checked:false,
                 value:'off',
                 onChange:function(checked){
@@ -81,20 +70,19 @@
 </script>
 
 <form id="create_article" method="post" enctype="multipart/form-data" style="background-color: #f2c56d">
-        <table>
             <div>
             文章标题:
-                    <input class="easyui-textbox"  name="articleName"/>
+                    <input class="easyui-textbox" id="name1" name="articleName"/>
             </div>
                  <br>
             <div>
             文章作者:
-                <input  id="cc" class="easyui-combobox"  name="masterId" value="未知"/>
+                <input  id="cc" class="easyui-combobox" name="masterId" value="未知"/>
             </div>
                 <br>
             <div>
             文章状态:
-                    <input id= "status" class="easyui-switchbutton" data-options="onText:'上架',offText:'下架'" name="articlStatus">
+                    <input id= "s" class="easyui-switchbutton" data-options="onText:'上架',offText:'下架'" name="articleStatus">
             </div>
                 <br>
             <div>
@@ -104,10 +92,6 @@
                 </div>
             </div>
             <br>
-
-            <div>
-                <input id="create_art" type="submit" value="创建文章" onclick="test()"/>
-                <input id="reset_art" type="reset" value="重置内容" onclick="reset()"/>
-            </div>
-        </table>
+            <a class="easyui-linkbutton" data-options="onClick:test">创建文章</a>
+            <a class="easyui-linkbutton" data-options="onClick:reset">重置内容</a>
 </form>

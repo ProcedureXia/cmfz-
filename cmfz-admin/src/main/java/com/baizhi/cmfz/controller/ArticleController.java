@@ -15,6 +15,8 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.Map;
 import java.util.UUID;
 
 /**
@@ -26,9 +28,17 @@ public class ArticleController {
     @Autowired
     private ArticleService articleService;
 
-    @RequestMapping("/addArticle")
+    @RequestMapping("/queryAllArticle")
     @ResponseBody
-    public RichTextResult addArticle(Article article, @RequestParam("files") MultipartFile[] files, HttpServletRequest request) throws IOException {
+    public Map<String,Object> queryArticleByPage(@RequestParam("page") int nowPage, @RequestParam("rows") int pageSize){
+        Map<String, Object> map = articleService.queryArticleByPage(nowPage, pageSize);
+        //System.out.println(map);
+        return map;
+    }
+
+    @RequestMapping("/addPic")
+    @ResponseBody
+    public RichTextResult uploadPic(@RequestParam("files") MultipartFile[] files, HttpServletRequest request) throws IOException {
         RichTextResult result = new RichTextResult();
         ArrayList<String> data = new ArrayList<>();
         try {
@@ -50,8 +60,17 @@ public class ArticleController {
             result.setErrno(1);
             e.printStackTrace();
         }
-        articleService.addArticle(article);
         return result;
+    }
+
+    @RequestMapping("/addArticle")
+    @ResponseBody
+    public String addArticle(Article article,String masterId){
+        //System.out.println(article);
+        //System.out.println(masterId);
+        article.setArticleDate(new Date());
+        articleService.addArticle(article);
+        return null;
     }
 
 }
