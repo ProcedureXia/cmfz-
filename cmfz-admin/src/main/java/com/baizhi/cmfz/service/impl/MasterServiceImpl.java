@@ -1,7 +1,7 @@
 package com.baizhi.cmfz.service.impl;
 
-import com.baizhi.cmfz.dao.MasterDao;
 import com.baizhi.cmfz.entity.Master;
+import com.baizhi.cmfz.dao.MasterDao;
 import com.baizhi.cmfz.service.MasterService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -37,6 +37,7 @@ public class MasterServiceImpl implements MasterService{
     @Override
     public int addMaster(Master master) {
         int i = masterDao.insertMaster(master);
+
         return i;
     }
 

@@ -2,7 +2,6 @@ package com.baizhi.cmfz.controller;
 
 import com.baizhi.cmfz.entity.Picture;
 import com.baizhi.cmfz.service.PictureService;
-import org.apache.commons.io.FileUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -10,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 
-import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 import java.io.File;
 import java.io.IOException;
@@ -36,7 +34,7 @@ public class PictureController {
 
     @RequestMapping("/addPicture")
     @ResponseBody
-    public String addPicture(Picture picture, MultipartFile file,HttpSession session) throws IOException {
+    public String addPicture(Picture picture, MultipartFile file, HttpSession session) throws IOException {
      //轮播图创建时间
         picture.setCreateTime(new Date());
 

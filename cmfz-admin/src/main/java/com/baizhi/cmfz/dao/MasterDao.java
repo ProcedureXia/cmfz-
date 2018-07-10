@@ -1,7 +1,6 @@
 package com.baizhi.cmfz.dao;
 
 import com.baizhi.cmfz.entity.Master;
-import com.baizhi.cmfz.entity.Picture;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

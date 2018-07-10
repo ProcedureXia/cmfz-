@@ -1,8 +1,8 @@
-import com.baizhi.cmfz.entity.Master;
+package com.baizhi.test;
+
 import com.baizhi.cmfz.entity.Menu;
 import com.baizhi.cmfz.service.MasterService;
 import com.baizhi.cmfz.service.MenuService;
-import com.baizhi.cmfz.service.impl.MenuServiceImpl;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
