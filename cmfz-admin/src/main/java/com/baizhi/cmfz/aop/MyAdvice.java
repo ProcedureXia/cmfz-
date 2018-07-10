@@ -16,13 +16,6 @@ import java.lang.reflect.Method;
 @Component
 @Aspect
 public class MyAdvice {
-
-    /*@Autowired
-    public void setSession(HttpSession session){
-        this.session = session;
-    }*/
-
-
     /**
      * 声明切入点表达式
      */
@@ -60,18 +53,14 @@ public class MyAdvice {
     public Object around(ProceedingJoinPoint pjp) throws Throwable {  // 连接点
         //获取当前的参数信息
         Object[] args = pjp.getArgs();
-        System.out.println(args[0]);
+        //System.out.println(args[0]);
 
         //获取当前的动作(方法名称)
         MethodSignature methodSignature = (MethodSignature) pjp.getSignature();
         Method method = methodSignature.getMethod();
-        System.out.println(method.getName());
+        //System.out.println(method.getName());
 
         //获取当前方法上的注解(自定义注解)
-        /*Annotation[] annotations = method.getAnnotations();
-        for (Annotation annotation : annotations) {
-            System.out.println(annotation);
-        }*/
 
         //获取当前操作时间
 
@@ -93,7 +82,7 @@ public class MyAdvice {
             result = "fail";
             throwable.printStackTrace();
         }
-        System.out.println("advice: "+obj);
+       // System.out.println("advice: "+obj);
         System.out.println("----------------环绕后------------");
         return obj;
     }
