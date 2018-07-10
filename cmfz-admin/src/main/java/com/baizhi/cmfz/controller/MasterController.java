@@ -71,13 +71,32 @@ public class MasterController {
 
     @RequestMapping("/modifyMaster")
     @ResponseBody
-    public String modifyMaster(Master master){
-        int i = masterService.modifyMaster(master);
-        if(i>0){
+    public String modifyMaster(Master master,MultipartFile file, HttpSession session) throws IOException {
+
+        //生成唯一的UUID文件名
+        String uuidName = UUID.randomUUID().toString().replace("-","");
+        //源文件名
+        String oldName = file.getOriginalFilename();
+        //获取后缀
+        String suffix = oldName.substring(oldName.lastIndexOf("."));
+        //添加数据库的操作
+        master.setMasterPhoto(uuidName+suffix);
+        Integer i = masterService.modifyMaster(master);
+       /* if(i>0){
             return "success";
         }else{
             return "error";
+        }*/
+        if(i==1){
+            //添加成功,将图片放进文件中
+            String realPath = session.getServletContext().getRealPath("/");
+//            System.out.println(realPath);
+            String[] strings = realPath.split("ROOT");
+            String uploadPath = strings[0]+"upload";//文件上传的路径
+//            System.out.println(uploadPath+"//"+file.getOriginalFilename());
+            file.transferTo(new File(uploadPath+"/"+uuidName+suffix));
         }
+        return null;
     }
 
     @RequestMapping("/queryMasterByKey")

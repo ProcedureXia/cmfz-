@@ -42,7 +42,7 @@
 
     <update id="updateMaster">
 
-        update t_master set masterName=#{masterName},masterPhone=#{masterPhone},masterSummer=#{masterSummer},
+        update t_master set masterName=#{masterName},masterPhone=#{masterPhone},masterSummer=#{masterSummer},masterPhoto=#{masterPhoto},
         masterGender=#{masterGender}
         where masterId = #{masterId}
     </update>

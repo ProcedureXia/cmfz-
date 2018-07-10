@@ -17,7 +17,7 @@
         </tr>
 
         <tr>
-            <td>上师法名电话:</td>
+            <td>上师电话:</td>
             <td>
                 <input class="easyui-textbox"  name="masterPhone"/>
             </td>
@@ -26,6 +26,12 @@
             <td>上师简介:</td>
             <td>
                 <input class="easyui-textbox"  name="masterSummer"/>
+            </td>
+        </tr>
+
+        <tr>
+            <td>头像</td>
+            <td><input name="file" class="easyui-filebox"/>
             </td>
         </tr>
 
@@ -39,6 +45,8 @@
                 </select>
             </td>
         </tr>
+
+
 
     </table>
 </form>
