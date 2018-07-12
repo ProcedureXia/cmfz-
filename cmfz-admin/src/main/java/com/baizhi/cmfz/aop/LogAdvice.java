@@ -40,10 +40,10 @@ public class LogAdvice {
             HttpSession session = request.getSession();
 
             //获取用户
-             Admin user = (Admin) session.getAttribute("admin");
+             //Admin user = (Admin) session.getAttribute("admin");
+            String adminName= (String) session.getAttribute("adminname");
             //创建新事务对象
             Log log = new Log();
-            //System.out.println("1111111111111111111111111111"+log);
             //获取操作详细信息 message
             String message = "";
             //先获取参数(拼接message)
@@ -72,8 +72,8 @@ public class LogAdvice {
                 String resource = oldName.substring(oldName.lastIndexOf(".")+1) ;
                 log.setMessage(message);
                 log.setResource(resource);
-                //log.setUser("aaa");//user.getMgrName()
-                log.setUser(user.getMgrName());
+                //log.setUser(user.getMgrName());
+                log.setUser(adminName);
                 log.setTime(new Date());
 
                  //获取状态

@@ -20,8 +20,7 @@ public class AdminServiceImpl implements AdminService {
             Admin selected = adminDao.selectAdminByName(admin.getMgrName());
              if (selected != null && selected.getMgrStatus().equals("1")) {
                 String salt = selected.getSalt();
-                String inputPassword = DigestUtils.md5Hex(admin.getMgrPassword() + salt);
-
+                 String inputPassword = DigestUtils.md5Hex(admin.getMgrPassword() + salt);
                 if(selected.getMgrPassword().equals(inputPassword)) {
                     return selected;
                 }

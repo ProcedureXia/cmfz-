@@ -45,4 +45,67 @@
 
     <!--注解式事务-->
     <tx:annotation-driven transaction-manager="transactionManager" />
+
+    <!--
+        shiro的过滤器工厂对象  负责权限的校验 处理请求的bean
+    -->
+    <bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">
+        <property name="securityManager" ref="securityManager"></property>
+        <!--登录页的URL地址-->
+        <property name="loginUrl" value="/login.jsp"></property>
+        <property name="unauthorizedUrl" value="/error.jsp"></property>
+        <!--
+           定义过滤器链的拦截规则
+           过滤器：filter  请求和响应做预处理的
+           Filter 接口 3个 doFilter(req,resp,chain)
+                          chain.doFilter(req,resp);
+       -->
+        <property name="filterChainDefinitions">
+            <!--
+                 /main.jsp=anon
+                 uri=过滤器简称
+                 过滤器：anon | authc | user | logout | roles | perms |自定义的
+            -->
+            <value>
+                /js/**=anon
+                /getVcode=anon
+                /admin/login=anon
+                /css/**=anon
+                /img/**=anon
+                /themes/**=anon
+                /index.jsp=anon
+                /**=user
+            </value>
+        </property>
+    </bean>
+    <!--配置web环境下的安全管理器-->
+    <bean id="securityManager" class="org.apache.shiro.web.mgt.DefaultWebSecurityManager">
+        <!--引用自定义的数据源类-->
+        <property name="realms">
+            <list>
+                <ref bean="myRealm"></ref>
+            </list>
+        </property>
+        <property name="rememberMeManager" ref="rememberMeManager"></property>
+    </bean>
+    <bean id="rememberMeManager" class="org.apache.shiro.web.mgt.CookieRememberMeManager">
+        <property name="cookie" ref="simpleCookie"></property>
+    </bean>
+    <bean id="simpleCookie" class="org.apache.shiro.web.servlet.SimpleCookie">
+        <property name="name" value="rememberMe"></property>
+        <property name="maxAge" value="604800"></property>
+        <property name="path" value="/"></property>
+    </bean>
+
+    <bean id="myRealm" class="com.baizhi.cmfz.util.MyRealm">
+        <property name="credentialsMatcher" ref="credentialsMatcher"></property>
+    </bean>
+
+    <!--声明凭证匹配器对象-->
+    <bean id="credentialsMatcher" class="org.apache.shiro.authc.credential.HashedCredentialsMatcher">
+        <property name="hashAlgorithmName" value="md5"></property>
+        <property name="hashIterations" value="1024"></property>
+    </bean>
+
+
 </beans>

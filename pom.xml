@@ -209,5 +209,53 @@
       <version>${slf4j.version}</version>
     </dependency>
     <!-- log end -->
+
+    <!-- shiro core开始 -->
+    <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-core -->
+    <dependency>
+      <groupId>org.apache.shiro</groupId>
+      <artifactId>shiro-core</artifactId>
+      <version>1.3.1</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-web -->
+    <dependency>
+      <groupId>org.apache.shiro</groupId>
+      <artifactId>shiro-web</artifactId>
+      <version>1.3.1</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-spring -->
+    <dependency>
+      <groupId>org.apache.shiro</groupId>
+      <artifactId>shiro-spring</artifactId>
+      <version>1.3.1</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-ehcache -->
+    <dependency>
+      <groupId>org.apache.shiro</groupId>
+      <artifactId>shiro-ehcache</artifactId>
+      <version>1.2.6</version>
+    </dependency>
+    <!--shiro结束-->
+
+<!--easyuipoi开始-->
+    <dependency>
+      <groupId>cn.afterturn</groupId>
+      <artifactId>easypoi-base</artifactId>
+      <version>3.0.3</version>
+    </dependency>
+    <dependency>
+      <groupId>cn.afterturn</groupId>
+      <artifactId>easypoi-web</artifactId>
+      <version>3.0.3</version>
+    </dependency>
+    <dependency>
+      <groupId>cn.afterturn</groupId>
+      <artifactId>easypoi-annotation</artifactId>
+      <version>3.0.3</version>
+    </dependency>
+    <!--easyuipoi结束-->
   </dependencies>
 </project>

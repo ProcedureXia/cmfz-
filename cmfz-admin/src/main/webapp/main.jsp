@@ -1,5 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=utf-8"
 	pageEncoding="utf-8" isELIgnored="false"%>
+<%--导入shiro 标签式授权的标签库--%>
+<%@ taglib prefix="shiro" uri="http://shiro.apache.org/tags" %>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -72,8 +75,18 @@
 <body class="easyui-layout">   
     <div data-options="region:'north',split:true" style="height:60px;background-color:  #5C160C">
     	<div style="font-size: 24px;color: #FAF7F7;font-family: 楷体;font-weight: 900;width: 500px;float:left;padding-left: 20px;padding-top: 10px" >持名法州后台管理系统</div>
-    	<div style="font-size: 16px;color: #FAF7F7;font-family: 楷体;width: 300px;float:right;padding-top:15px">欢迎您:zs &nbsp;<a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-edit'">修改密码</a>&nbsp;&nbsp;<a href="${pageContext.request.contextPath}/login.jsp" class="easyui-linkbutton" data-options="iconCls:'icon-01'">退出系统</a></div>
-    </div>   
+    	<%--<div style="font-size: 16px;color: #FAF7F7;font-family: 楷体;width: 300px;float:right;padding-top:15px">欢迎您:zs &nbsp;<a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-edit'">修改密码</a>&nbsp;&nbsp;<a href="${pageContext.request.contextPath}/login.jsp" class="easyui-linkbutton" data-options="iconCls:'icon-01'">退出系统</a></div>--%>
+    	<div style="font-size: 16px;color: #FAF7F7;font-family: 楷体;width: 300px;float:right;padding-top:15px">
+				<%--是否认证通过 认证通过 则显示标签体内容--%>
+				<shiro:authenticated>欢迎您：<shiro:principal></shiro:principal> <%--<a href="#">[登出]</a>--%></shiro:authenticated> &nbsp;
+				<%--是否认证通过 未认证 则显示标签体内容--%>
+				<shiro:notAuthenticated><a href="#">[登录]</a> | <a href="#">[注册]</a></shiro:notAuthenticated>
+					<%--游客 类似于未认证 显示标签体内容--%>
+					<shiro:guest></shiro:guest>
+				<a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-edit'">修改密码</a>&nbsp;&nbsp;
+				<a href="${pageContext.request.contextPath}/login.jsp" class="easyui-linkbutton" data-options="iconCls:'icon-01'">退出系统</a>
+		</div>
+    </div>
     <div data-options="region:'south',split:true" style="height: 40px;background: #5C160C">
     	<div style="text-align: center;font-size:15px; color: #FAF7F7;font-family: 楷体" >&copy;卢月霞 lyx@qq.com</div>
     </div>
