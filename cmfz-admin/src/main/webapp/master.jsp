@@ -1,6 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" isELIgnored="false" %>
+<%@ taglib prefix="shiro" uri="http://shiro.apache.org/tags" %>
 <script type="text/javascript">
     $(function () {
+        <shiro:hasPermission name="mgr:addMaster">
         $("#master_add").linkbutton({
             onClick: function () {
                 $('#master_dd').dialog({
@@ -39,7 +41,9 @@
                 });
             }
         });
+        </shiro:hasPermission>
 
+        <shiro:hasPermission name="mgr:addBatch">
         $("#master_moreadd").linkbutton({
             onClick: function () {
                 $('#master_dd').dialog({
@@ -77,10 +81,10 @@
                 });
             }
         });
+        </shiro:hasPermission>
 
 
-
-
+        <shiro:hasPermission name="mgr:modifyMaster">
 
         $("#master_update").linkbutton({
             onClick: function () {
@@ -122,7 +126,7 @@
                 });
             }
         });
-
+        </shiro:hasPermission>
 
 
         $('#master_dg').datagrid({
@@ -164,6 +168,7 @@
                     '</tr></table>';
             }
         });
+
 
         $('#ss1').searchbox({
             searcher : function(value, name) {

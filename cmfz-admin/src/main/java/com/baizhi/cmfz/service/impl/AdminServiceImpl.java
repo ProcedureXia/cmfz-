@@ -1,11 +1,15 @@
 package com.baizhi.cmfz.service.impl;
 import com.baizhi.cmfz.dao.AdminDao;
 import com.baizhi.cmfz.entity.Admin;
+import com.baizhi.cmfz.entity.Permission;
+import com.baizhi.cmfz.entity.Role;
 import com.baizhi.cmfz.service.AdminService;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import java.util.List;
 
 
 /**
@@ -27,5 +31,16 @@ public class AdminServiceImpl implements AdminService {
             }
             return null;
         }
+
+    @Override
+    public List<Role> queryRoleByName(String mgrName) {
+
+        return adminDao.selectRoleByName(mgrName);
     }
+
+    @Override
+    public List<Permission> queryPermissionByName(String mgrName) {
+        return adminDao.selectPermissionByName(mgrName);
+    }
+}
 

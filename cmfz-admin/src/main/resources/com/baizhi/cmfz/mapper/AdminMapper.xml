@@ -7,4 +7,40 @@
     <select id="selectAdminByName" resultType="com.baizhi.cmfz.entity.Admin">
         select * from t_mgr where mgrName = #{mgrName}
     </select>
+
+    <select id="selectRoleByName" resultType="com.baizhi.cmfz.entity.Role">
+        select roleId,roleName,roleTag
+        from t_role
+        where roleId in
+        (select roleId
+        from t_mgr_role
+        where mgrId =
+        (select mgrId
+        from t_mgr
+        where mgrName = #{mgrName}
+        )
+      )
+    </select>
+
+    <select id="selectPermissionByName" resultType="com.baizhi.cmfz.entity.Permission">
+        select permissionId,
+              resourceName,
+              resourceTag,
+              resourceUrl,
+              permissionTag
+        from t_permission
+        where permissionId in
+        (select permissionId
+        from t_role_permission
+        where roleId in
+        (select roleId
+        from t_mgr_role
+        where mgrId =
+        (select mgrId
+        from t_mgr
+        where mgrName = #{mgrName}
+        )
+      )
+    )
+    </select>
 </mapper>

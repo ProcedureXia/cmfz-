@@ -61,6 +61,9 @@ public class AdminController {
             //验证码正确,判断用户名密码是否正确
             try {
                 subject.login(new UsernamePasswordToken(admin.getMgrName(),admin.getMgrPassword(),rememberMe));
+
+                //编程式授权
+                System.out.println(subject.hasRole("root")?"有root角色":"没有root角色");
                 session.setAttribute("adminname",admin.getMgrName());
                 return "redirect:/main.jsp";
             } catch (Exception e) {
